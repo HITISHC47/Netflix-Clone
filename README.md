@@ -4,7 +4,7 @@ A responsive Netflix homepage clone built with **HTML**, **CSS**, and **JavaScri
 ✨ Includes features like dark mode, responsive hamburger menu, slideshow background.
 
 ## 🔗 Live Demo
-[View it here](https://hitishc47.github.io/Netflix-Clone/)
+[View it here](https://hitishchawla.github.io/Netflix-Clone/)
 
 ## 📂 Features
 - Dark / light mode toggle
